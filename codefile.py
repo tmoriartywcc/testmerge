@@ -7,4 +7,4 @@ if user_temp > 100:
 elif user_temp < 30:
     print('brrrrr.  its cold!')
 else:
-    print('its not that hot.')
+    print('its not that bad out.')
